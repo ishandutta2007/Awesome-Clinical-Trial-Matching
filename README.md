@@ -60,7 +60,7 @@ The commercial landscape includes enterprise SaaS providers sorted by company si
 
 ## 🔓 Open-Source GitHub Projects
 
-Top self-hostable open-source engines sorted by GitHub star count (descending):
+Top self-hostable open-source engines sorted by GitHub Stars_Count (descending):
 
 - **[ClinTrialFinder](https://github.com/chncwang/ClinTrialFinder)** [![Stars](https://img.shields.io/github/stars/chncwang/ClinTrialFinder?style=social&color=white)](https://github.com/chncwang/ClinTrialFinder/stargazers)  
   🤖 **AI-powered clinical trial matching tool using GPT-4.1-mini & Perplexity AI.** Automatically evaluates patient summaries against eligibility criteria and provides evidence-backed rationale.
@@ -119,3 +119,12 @@ If you find this curated list valuable for your clinical informatics research, p
 ---
 
 **Made with ❤️ for clinical research informaticists, oncology coordinators, precision medicine teams, and health-tech developers.**
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Clinical-Trial-Matching&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Clinical-Trial-Matching_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Clinical-Trial-Matching_growth.svg">
+  </picture>
+</a>
